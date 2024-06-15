@@ -94,7 +94,7 @@ Vertrek van het opstartpunt en respecteer bij het implementeren van je oplossing
 - Zie bestand Database/queries.txt. Zorg ervoor dat je REST controller een "GET" aanbiedt voor query 4 én query 5:
   * (4) Toon het totale bedrag van alle bestellingen per klant
   * (5) Toon alle diensten en het aantal keren dat elke dienst besteld is
-  * Let op: de SQL queries mogen alleen gebruikt worden om je resultaat te controleren; implementeer je methods met behulp van de EF Core laag: je moet precies dezelfde gegevens tonen via swagger als de queries tonen.
+  * Let op: de SQL queries mogen alleen gebruikt worden om je resultaat te controleren; implementeer je methods met behulp van de EF Core laag: je moet precies dezelfde gegevens tonen via swagger als de queries doen.
 - Maak gebruik van DTO's wanneer je in je REST controller interageert met de buitenwereld.
 - Integreer SeriLog logging naar Seq en een log bestand in je REST API.
 - Configureer als Kestrel poorten in je REST API: http 7040, https 7045.
