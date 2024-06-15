@@ -1,6 +1,6 @@
 # Startpunt "cover all" Web 4 - Test 17/6/2024
 
-**Link:** https://classroom.github.com/
+**Link:** [https://classroom.github.com/](https://classroom.github.com/a/abrYXBDX)
 
 ## Wie ben je?
 
